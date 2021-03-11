@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "FixThoseLights",
+  "name": "FixThoseLights",
+  "author": "JackMacWindows",
+  "version": "1.0.0",
+  "description": "Disables the flickering sound effect from the logo, and optionally the flickering letter as well.",
+  "gameVersion": "1.13.4",
+  "dependsOn": {
+    "BSIPA": "^4.1.4"
+  },
+  "features": []
+}
